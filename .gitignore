@@ -1,0 +1,40 @@
+# Virtual Environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Claude / AI artifacts
+.claude/
+.claude.json
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+# Local data (optional — keep if large/private)
+data/
+uploads/
+.streamlit/secrets.toml

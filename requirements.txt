@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+faker
+pytesseract
+transformers
+torch
+torchvision
+sentence-transformers
+xgboost
+scikit-learn
+plotly
+matplotlib
+Pillow
+reportlab
+python-docx
+PyPDF2
