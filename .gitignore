@@ -19,10 +19,6 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Claude / AI artifacts
-.claude/
-.claude.json
-
 # Logs
 *.log
 
